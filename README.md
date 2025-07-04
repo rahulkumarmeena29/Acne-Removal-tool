@@ -5,8 +5,8 @@
 >
 
 <p float="left">
-  <img alt="Example 1" src="/image_1.jpg" width="400" />
-  <img alt="Example 2" src="/mask_1.jpg" width="400" />
+  <img alt="Example 1" src="/image_2.jpg" width="450" />
+  <img alt="Example 2" src="/mask_2.jpg" width="450" />
 </p>
 
 
